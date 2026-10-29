@@ -1,0 +1,11 @@
+{
+  "name": "Cloud Browser",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Chromium 60FPS",
+      "visibility": "public",
+      "onAutoForward": "silent"
+    }
+  }
+}
